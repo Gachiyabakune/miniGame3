@@ -46,5 +46,5 @@ void SceneTitle::draw()
 	{
 		DrawString(150, 150, "ƒ^ƒCƒgƒ‹", GetColor(255, 255, 255));
 	}
-	
+	//komennto
 }
